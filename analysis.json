@@ -1,0 +1,136 @@
+{
+  "overall_tone": "negative",
+  "counts": {
+    "positive": 3,
+    "negative": 6,
+    "neutral": 6
+  },
+  "summary_lines": [
+    "3 of 15 headlines lean positive today.",
+    "6 of 15 headlines lean negative today.",
+    "6 of 15 headlines are neutral/mixed today."
+  ],
+  "headlines": [
+    {
+      "title": "Commanders mailbag: Daronte Jones, David Blough, Adam Peters\u2019 gran plan",
+      "source": "Hogs Haven",
+      "url": "https://www.hogshaven.com/washington-commanders-analysis/437771/commanders-mailbag-daronte-jones-david-blough-adam-peters-gran-plan",
+      "publishedAt": "2026-09-06T17:58:38Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "HDFC Bank woes put spotlight on leadership continuity, top-tier handovers",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/economy/news/hdfc-bank-woes-put-spotlight-on-leadership-continuity-top-tier-handovers-126090600794_1.html",
+      "publishedAt": "2026-09-06T17:52:46Z",
+      "sentiment": "negative",
+      "score": -0.44
+    },
+    {
+      "title": "Should You Move Your Money? What 1,006 Investors Are Doing Now",
+      "source": "Moneylion.com",
+      "url": "https://moneylion.com/trending/money/should-you-move-your-money-what-investors-are-doing-now",
+      "publishedAt": "2026-09-06T17:00:22Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Remember How Bitcoin Was Supposed to Rise With Money Supply? Here's Why That Didn't Happen",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/remember-bitcoin-supposed-rise-money-170010779.html",
+      "publishedAt": "2026-09-06T17:00:10Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "A Fed Rate Hike May Be in the Cards on Sept. 16, and 36 Years of History Says the Stock Market Won't Be Happy (at Least Initially)",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/d708c357e15071fc",
+      "publishedAt": "2026-09-06T15:55:27Z",
+      "sentiment": "negative",
+      "score": -0.459
+    },
+    {
+      "title": "Eric Trump Says Our Mission Hasn't Changed as American Bitcoin Marks One Year of Going Public, but ABTC Stock Got Battered",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/eric-trump-says-mission-hasnt-151515143.html",
+      "publishedAt": "2026-09-06T15:15:15Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "The $63 billion revolving door carrying the entire US Bitcoin ETF market",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/the-63-billion-revolving-door-carrying-the-entire-us-bitcoin-etf-market/",
+      "publishedAt": "2026-09-06T15:00:20Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "US Added 162,000 Jobs in August, Fueling President Trump To Push for Lower Interest Rates Amid Trade Deficit Warnings",
+      "source": "The Daily Hodl",
+      "url": "https://dailyhodl.com/2026/09/06/us-added-162000-jobs-in-august-fueling-president-trump-to-push-for-lower-interest-rates-amid-trade-deficit-warnings/",
+      "publishedAt": "2026-09-06T14:30:48Z",
+      "sentiment": "negative",
+      "score": -0.477
+    },
+    {
+      "title": "BlackRock and JPMorgan bet on emerging markets amid global bond turmoil",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/blackrock-jpmorgan-emerging-markets-bonds/",
+      "publishedAt": "2026-09-06T13:06:29Z",
+      "sentiment": "negative",
+      "score": -0.361
+    },
+    {
+      "title": "Inflation data, Oracle earnings, and an energy supply crunch: What to watch this week",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/economy/article/inflation-data-oracle-earnings-and-an-energy-supply-crunch-what-to-watch-this-week-120429533.html",
+      "publishedAt": "2026-09-06T12:04:29Z",
+      "sentiment": "positive",
+      "score": 0.273
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/133834844.cms",
+      "publishedAt": "2026-09-06T11:05:16Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "What to Expect in Markets This Week: Fresh Inflation Data; Apple\u2019s Fall Launch Event and Oracle Earnings",
+      "source": "Investopedia",
+      "url": "https://www.investopedia.com/what-to-expect-in-markets-this-week-fresh-inflation-data-apple-fall-launch-event-and-oracle-earnings-12100794",
+      "publishedAt": "2026-09-06T11:00:00Z",
+      "sentiment": "positive",
+      "score": 0.318
+    },
+    {
+      "title": "American Express\u2019 secret social media weapon: an in-house history nerd",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/american-express-social-media-tiktok-ira-galtman-history-nerd-2026-9#article",
+      "publishedAt": "2026-09-06T10:30:01Z",
+      "sentiment": "negative",
+      "score": -0.527
+    },
+    {
+      "title": "West Asia conflict, crude oil prices, US inflation data to drive markets next week",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/west-asia-conflict-crude-oil-prices-us-inflation-data-to-drive-markets-next-week/article71434864.ece",
+      "publishedAt": "2026-09-06T08:50:09Z",
+      "sentiment": "negative",
+      "score": -0.718
+    },
+    {
+      "title": "From breaking barriers to picking stocks: Muriel Siebert\u2019s investment wisdom",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/from-breaking-barriers-to-picking-stocks-muriel-sieberts-investment-wisdom/articleshow/133831019.cms",
+      "publishedAt": "2026-09-06T08:31:22Z",
+      "sentiment": "positive",
+      "score": 0.527
+    }
+  ],
+  "fetched_at": "2026-09-07T20:36:48.304093"
+}
