@@ -1,136 +1,136 @@
 {
-  "overall_tone": "negative",
+  "overall_tone": "positive",
   "counts": {
-    "positive": 3,
-    "negative": 6,
-    "neutral": 6
+    "positive": 7,
+    "negative": 3,
+    "neutral": 5
   },
   "summary_lines": [
-    "3 of 15 headlines lean positive today.",
-    "6 of 15 headlines lean negative today.",
-    "6 of 15 headlines are neutral/mixed today."
+    "7 of 15 headlines lean positive today.",
+    "3 of 15 headlines lean negative today.",
+    "5 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "Commanders mailbag: Daronte Jones, David Blough, Adam Peters\u2019 gran plan",
-      "source": "Hogs Haven",
-      "url": "https://www.hogshaven.com/washington-commanders-analysis/437771/commanders-mailbag-daronte-jones-david-blough-adam-peters-gran-plan",
-      "publishedAt": "2026-09-06T17:58:38Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "HDFC Bank woes put spotlight on leadership continuity, top-tier handovers",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/economy/news/hdfc-bank-woes-put-spotlight-on-leadership-continuity-top-tier-handovers-126090600794_1.html",
-      "publishedAt": "2026-09-06T17:52:46Z",
-      "sentiment": "negative",
-      "score": -0.44
-    },
-    {
-      "title": "Should You Move Your Money? What 1,006 Investors Are Doing Now",
-      "source": "Moneylion.com",
-      "url": "https://moneylion.com/trending/money/should-you-move-your-money-what-investors-are-doing-now",
-      "publishedAt": "2026-09-06T17:00:22Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Remember How Bitcoin Was Supposed to Rise With Money Supply? Here's Why That Didn't Happen",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/remember-bitcoin-supposed-rise-money-170010779.html",
-      "publishedAt": "2026-09-06T17:00:10Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "A Fed Rate Hike May Be in the Cards on Sept. 16, and 36 Years of History Says the Stock Market Won't Be Happy (at Least Initially)",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d708c357e15071fc",
-      "publishedAt": "2026-09-06T15:55:27Z",
-      "sentiment": "negative",
-      "score": -0.459
-    },
-    {
-      "title": "Eric Trump Says Our Mission Hasn't Changed as American Bitcoin Marks One Year of Going Public, but ABTC Stock Got Battered",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/eric-trump-says-mission-hasnt-151515143.html",
-      "publishedAt": "2026-09-06T15:15:15Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "The $63 billion revolving door carrying the entire US Bitcoin ETF market",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/the-63-billion-revolving-door-carrying-the-entire-us-bitcoin-etf-market/",
-      "publishedAt": "2026-09-06T15:00:20Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "US Added 162,000 Jobs in August, Fueling President Trump To Push for Lower Interest Rates Amid Trade Deficit Warnings",
-      "source": "The Daily Hodl",
-      "url": "https://dailyhodl.com/2026/09/06/us-added-162000-jobs-in-august-fueling-president-trump-to-push-for-lower-interest-rates-amid-trade-deficit-warnings/",
-      "publishedAt": "2026-09-06T14:30:48Z",
-      "sentiment": "negative",
-      "score": -0.477
-    },
-    {
-      "title": "BlackRock and JPMorgan bet on emerging markets amid global bond turmoil",
+      "title": "China adds 650,000 ounces of gold to reserves in August, marking 22 straight months of buying",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/blackrock-jpmorgan-emerging-markets-bonds/",
-      "publishedAt": "2026-09-06T13:06:29Z",
-      "sentiment": "negative",
-      "score": -0.361
+      "url": "https://cryptobriefing.com/china-gold-reserves-august-increase/",
+      "publishedAt": "2026-09-07T11:52:11Z",
+      "sentiment": "positive",
+      "score": 0.226
     },
     {
-      "title": "Inflation data, Oracle earnings, and an energy supply crunch: What to watch this week",
+      "title": "Nifty slips below 23,800 as crude shock and fed fears hit sentiment",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/nifty-slips-below-23-800-as-crude-shock-and-fed-fears-hit-sentiment-126090700901_1.html",
+      "publishedAt": "2026-09-07T11:20:41Z",
+      "sentiment": "negative",
+      "score": -0.751
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Sensex, Nifty decline 0.50%; Infosys, Tech Mahindra lead losses",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-7th-september-2026/article71437259.ece",
+      "publishedAt": "2026-09-07T10:41:32Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Five Market Events to Watch This Week: U.S. Inflation, ECB Rates, Iran and Earnings",
+      "source": "Advfn.com",
+      "url": "https://investorshub.advfn.com/market-news/article/35756/five-market-events-to-watch-this-week-u-s-inflation-ecb-rates-iran-and-earnings",
+      "publishedAt": "2026-09-07T10:38:54Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Nifty ends below 23,800 level; media shares under pressure",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/nifty-ends-below-23-800-level-media-shares-under-pressure-126090700813_1.html",
+      "publishedAt": "2026-09-07T10:34:21Z",
+      "sentiment": "positive",
+      "score": 0.402
+    },
+    {
+      "title": "Here's Why This Friday Could Be One of the Most Critical Days for the Stock Market in September",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/ecc3e21ec87ff18d",
+      "publishedAt": "2026-09-07T10:31:47Z",
+      "sentiment": "negative",
+      "score": -0.38
+    },
+    {
+      "title": "Rising bond yields abroad have implications for India: policymakers must stay alert",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/opinion/online-views/rising-bond-yields-abroad-have-implications-for-india-policymakers-must-stay-alert-11788700326049.html",
+      "publishedAt": "2026-09-07T10:30:26Z",
+      "sentiment": "positive",
+      "score": 0.296
+    },
+    {
+      "title": "Societe Generale\u2019s Bokobza warns 6% Treasury yield could pressure equities",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/societe-generale-bokobza-treasury-yield-equities/",
+      "publishedAt": "2026-09-07T10:23:56Z",
+      "sentiment": "negative",
+      "score": -0.202
+    },
+    {
+      "title": "Best high-yield savings interest rates today, Monday, September 7, 2026: Earn up to 4.10% APY",
       "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/economy/article/inflation-data-oracle-earnings-and-an-energy-supply-crunch-what-to-watch-this-week-120429533.html",
-      "publishedAt": "2026-09-06T12:04:29Z",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-7-2026-earn-up-to-410-apy-100000748.html",
+      "publishedAt": "2026-09-07T10:00:00Z",
+      "sentiment": "positive",
+      "score": 0.802
+    },
+    {
+      "title": "Best high-yield savings interest rates today, Tuesday, September 8, 2026: Earn up to 4.10% APY",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-september-8-2026-earn-up-to-410-apy-100000748.html",
+      "publishedAt": "2026-09-07T10:00:00Z",
+      "sentiment": "positive",
+      "score": 0.802
+    },
+    {
+      "title": "Upstox launches US stocks investing, offers access to 8,000 stocks, 2,000 ETFs",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/upstox-launches-us-stocks-investing-offers-access-to-8000-stocks-2000-etfs/article71438107.ece",
+      "publishedAt": "2026-09-07T09:51:08Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "International Petroleum Corporation Announces Results of Normal Course Issuer Bid",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/international-petroleum-corporation-announces-results-of-normal-course-issuer-bid-98",
+      "publishedAt": "2026-09-07T09:04:58Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Weekly Climate and Energy News Roundup #704",
+      "source": "Wattsupwiththat.com",
+      "url": "https://wattsupwiththat.com/2026/09/07/weekly-climate-and-energy-news-roundup-704/",
+      "publishedAt": "2026-09-07T09:00:00Z",
       "sentiment": "positive",
       "score": 0.273
     },
     {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
+      "title": "Global Market: European stocks subdued as oil surge fuels inflation, ECB rate hike bets",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/133834844.cms",
-      "publishedAt": "2026-09-06T11:05:16Z",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-subdued-as-oil-surge-fuels-inflation-ecb-rate-hike-bets/articleshow/133872715.cms",
+      "publishedAt": "2026-09-07T08:55:23Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "What to Expect in Markets This Week: Fresh Inflation Data; Apple\u2019s Fall Launch Event and Oracle Earnings",
-      "source": "Investopedia",
-      "url": "https://www.investopedia.com/what-to-expect-in-markets-this-week-fresh-inflation-data-apple-fall-launch-event-and-oracle-earnings-12100794",
-      "publishedAt": "2026-09-06T11:00:00Z",
+      "title": "Japanese yen reaches highest level in 5 months after record government intervention",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/japanese-yen-five-month-high-intervention/",
+      "publishedAt": "2026-09-07T08:23:16Z",
       "sentiment": "positive",
-      "score": 0.318
-    },
-    {
-      "title": "American Express\u2019 secret social media weapon: an in-house history nerd",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/american-express-social-media-tiktok-ira-galtman-history-nerd-2026-9#article",
-      "publishedAt": "2026-09-06T10:30:01Z",
-      "sentiment": "negative",
-      "score": -0.527
-    },
-    {
-      "title": "West Asia conflict, crude oil prices, US inflation data to drive markets next week",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/west-asia-conflict-crude-oil-prices-us-inflation-data-to-drive-markets-next-week/article71434864.ece",
-      "publishedAt": "2026-09-06T08:50:09Z",
-      "sentiment": "negative",
-      "score": -0.718
-    },
-    {
-      "title": "From breaking barriers to picking stocks: Muriel Siebert\u2019s investment wisdom",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/from-breaking-barriers-to-picking-stocks-muriel-sieberts-investment-wisdom/articleshow/133831019.cms",
-      "publishedAt": "2026-09-06T08:31:22Z",
-      "sentiment": "positive",
-      "score": 0.527
+      "score": 0.052
     }
   ],
-  "fetched_at": "2026-09-07T20:36:48.304093"
+  "fetched_at": "2026-09-08T12:03:53.014996"
 }
