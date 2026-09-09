@@ -1,136 +1,136 @@
 {
-  "overall_tone": "positive",
+  "overall_tone": "neutral",
   "counts": {
-    "positive": 7,
-    "negative": 3,
-    "neutral": 5
+    "positive": 2,
+    "negative": 6,
+    "neutral": 7
   },
   "summary_lines": [
-    "7 of 15 headlines lean positive today.",
-    "3 of 15 headlines lean negative today.",
-    "5 of 15 headlines are neutral/mixed today."
+    "2 of 15 headlines lean positive today.",
+    "6 of 15 headlines lean negative today.",
+    "7 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "China adds 650,000 ounces of gold to reserves in August, marking 22 straight months of buying",
+      "title": "Strategy\u2019s USD reserves and cash decline $176M to $6.5B as dividend obligations mount",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/china-gold-reserves-august-increase/",
-      "publishedAt": "2026-09-07T11:52:11Z",
-      "sentiment": "positive",
-      "score": 0.226
+      "url": "https://cryptobriefing.com/strategy-usd-reserves-cash-decline-176m/",
+      "publishedAt": "2026-09-08T12:00:06Z",
+      "sentiment": "neutral",
+      "score": 0.0
     },
     {
-      "title": "Nifty slips below 23,800 as crude shock and fed fears hit sentiment",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/nifty-slips-below-23-800-as-crude-shock-and-fed-fears-hit-sentiment-126090700901_1.html",
-      "publishedAt": "2026-09-07T11:20:41Z",
+      "title": "Can the Commanders upset the Eagles in Philly to open the season and seize control of the NFC East?",
+      "source": "Hogs Haven",
+      "url": "https://www.hogshaven.com/washington-commanders-analysis/437657/washington-commanders-eagles-nfl-week-1-inside-matchup",
+      "publishedAt": "2026-09-08T12:00:00Z",
       "sentiment": "negative",
-      "score": -0.751
+      "score": -0.792
     },
     {
-      "title": "Sensex today | Stock Market Highlights: Sensex, Nifty decline 0.50%; Infosys, Tech Mahindra lead losses",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-7th-september-2026/article71437259.ece",
-      "publishedAt": "2026-09-07T10:41:32Z",
+      "title": "Santoli: One key tech ETF may signal whether this bull market can keep marching on",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/08/santoli-one-key-tech-etf-may-signal-whether-this-bull-market-can-keep-marching-on.html",
+      "publishedAt": "2026-09-08T11:42:04Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Five Market Events to Watch This Week: U.S. Inflation, ECB Rates, Iran and Earnings",
-      "source": "Advfn.com",
-      "url": "https://investorshub.advfn.com/market-news/article/35756/five-market-events-to-watch-this-week-u-s-inflation-ecb-rates-iran-and-earnings",
-      "publishedAt": "2026-09-07T10:38:54Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Nifty ends below 23,800 level; media shares under pressure",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/nifty-ends-below-23-800-level-media-shares-under-pressure-126090700813_1.html",
-      "publishedAt": "2026-09-07T10:34:21Z",
-      "sentiment": "positive",
-      "score": 0.402
-    },
-    {
-      "title": "Here's Why This Friday Could Be One of the Most Critical Days for the Stock Market in September",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ecc3e21ec87ff18d",
-      "publishedAt": "2026-09-07T10:31:47Z",
+      "title": "Vulnerability Summary for the Week of August 31, 2026",
+      "source": "Cisa.gov",
+      "url": "https://www.cisa.gov/news-events/bulletins/sb26-250",
+      "publishedAt": "2026-09-08T11:39:53Z",
       "sentiment": "negative",
-      "score": -0.38
+      "score": -0.226
     },
     {
-      "title": "Rising bond yields abroad have implications for India: policymakers must stay alert",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/opinion/online-views/rising-bond-yields-abroad-have-implications-for-india-policymakers-must-stay-alert-11788700326049.html",
-      "publishedAt": "2026-09-07T10:30:26Z",
+      "title": "F1\u2019s newest race expected to be an \u2018incredible\u2019 thrill ride",
+      "source": "SB Nation",
+      "url": "https://www.sbnation.com/formula-one/1127466/f1-spanish-grand-prix-madring-madrid",
+      "publishedAt": "2026-09-08T11:30:00Z",
       "sentiment": "positive",
-      "score": 0.296
+      "score": 0.361
     },
     {
-      "title": "Societe Generale\u2019s Bokobza warns 6% Treasury yield could pressure equities",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/societe-generale-bokobza-treasury-yield-equities/",
-      "publishedAt": "2026-09-07T10:23:56Z",
+      "title": "Dow futures drop as Iran war, Canada tariffs hit Wall Street",
+      "source": "Quartz India",
+      "url": "https://qz.com/dow-futures-iran-war-canada-tariffs-markets-090826",
+      "publishedAt": "2026-09-08T11:27:56Z",
       "sentiment": "negative",
-      "score": -0.202
+      "score": -0.718
     },
     {
-      "title": "Best high-yield savings interest rates today, Monday, September 7, 2026: Earn up to 4.10% APY",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-7-2026-earn-up-to-410-apy-100000748.html",
-      "publishedAt": "2026-09-07T10:00:00Z",
+      "title": "Celebrate Organic Month at Natural Grocers\u00ae With Exclusive Savings, Education, Freebies, Sweepstakes, and More",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/celebrate-organic-month-at-natural-grocers-with-exclusive-savings-education-freebies-sweepstakes-and-more-302869580.html",
+      "publishedAt": "2026-09-08T11:26:00Z",
       "sentiment": "positive",
-      "score": 0.802
+      "score": 0.859
     },
     {
-      "title": "Best high-yield savings interest rates today, Tuesday, September 8, 2026: Earn up to 4.10% APY",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-september-8-2026-earn-up-to-410-apy-100000748.html",
-      "publishedAt": "2026-09-07T10:00:00Z",
-      "sentiment": "positive",
-      "score": 0.802
+      "title": "ZOOMEX STOCK: Trade Last Week\u2019s Market Chaos with Stock Perpetuals",
+      "source": "newsBTC",
+      "url": "http://www.newsbtc.com/news/zoomex-stock-trade-last-weeks-market-chaos-with-stock-perpetuals/",
+      "publishedAt": "2026-09-08T11:09:15Z",
+      "sentiment": "negative",
+      "score": -0.572
     },
     {
-      "title": "Upstox launches US stocks investing, offers access to 8,000 stocks, 2,000 ETFs",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/upstox-launches-us-stocks-investing-offers-access-to-8000-stocks-2000-etfs/article71438107.ece",
-      "publishedAt": "2026-09-07T09:51:08Z",
-      "sentiment": "neutral",
-      "score": 0.0
+      "title": "ZOOMEX STOCK: Trade Last Week\u2019s Market Chaos with Stock Perpetuals",
+      "source": "Bitcoinist",
+      "url": "https://bitcoinist.com/zoomex-stock-trade-last-weeks-market-chaos-with-stock-perpetuals/",
+      "publishedAt": "2026-09-08T11:06:55Z",
+      "sentiment": "negative",
+      "score": -0.572
     },
     {
-      "title": "International Petroleum Corporation Announces Results of Normal Course Issuer Bid",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/international-petroleum-corporation-announces-results-of-normal-course-issuer-bid-98",
-      "publishedAt": "2026-09-07T09:04:58Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Weekly Climate and Energy News Roundup #704",
-      "source": "Wattsupwiththat.com",
-      "url": "https://wattsupwiththat.com/2026/09/07/weekly-climate-and-energy-news-roundup-704/",
-      "publishedAt": "2026-09-07T09:00:00Z",
-      "sentiment": "positive",
-      "score": 0.273
-    },
-    {
-      "title": "Global Market: European stocks subdued as oil surge fuels inflation, ECB rate hike bets",
+      "title": "Rupee endures sharpest fall in over a month as Brent oil barrels towards $100",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-subdued-as-oil-surge-fuels-inflation-ecb-rate-hike-bets/articleshow/133872715.cms",
-      "publishedAt": "2026-09-07T08:55:23Z",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-endures-sharpest-fall-in-over-a-month-as-brent-oil-barrels-towards-100/articleshow/133921004.cms",
+      "publishedAt": "2026-09-08T10:42:35Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Japanese yen reaches highest level in 5 months after record government intervention",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/japanese-yen-five-month-high-intervention/",
-      "publishedAt": "2026-09-07T08:23:16Z",
-      "sentiment": "positive",
-      "score": 0.052
+      "title": "Morning Bid: Yen at work",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/morning-bid-yen-103625104.html",
+      "publishedAt": "2026-09-08T10:39:29Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Sensex down 555 pts, Nifty ends at 23,635 as crude oil nears $100",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-8th-september-2026/article71441098.ece",
+      "publishedAt": "2026-09-08T10:35:03Z",
+      "sentiment": "negative",
+      "score": -0.25
+    },
+    {
+      "title": "Has the economy gone C-shaped?",
+      "source": "NPR",
+      "url": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped",
+      "publishedAt": "2026-09-08T10:30:00Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Canaan Inc. Reports Unaudited Second Quarter 2026 Financial Results",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/canaan-inc-reports-unaudited-second-quarter-2026-financial-results-302872107.html",
+      "publishedAt": "2026-09-08T10:30:00Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Five spots to watch as the bond market creeps up on 5%",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/economy/policy/articles/five-spots-watch-bond-market-100636299.html",
+      "publishedAt": "2026-09-08T10:06:36Z",
+      "sentiment": "neutral",
+      "score": 0.0
     }
   ],
-  "fetched_at": "2026-09-08T12:03:53.014996"
+  "fetched_at": "2026-09-09T12:03:33.376124"
 }
